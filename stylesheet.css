@@ -1,0 +1,42 @@
+body{
+  margin:0;
+  padding: 0;
+  font-family: 'Teko', sans-serif !important;
+}
+#mainNav{
+  background-color:  #000000 !important;
+}
+#mainNav #nav-title{
+
+   font-family: 'Teko', sans-serif !important;
+   font-size: 30px;
+}
+#navbarResponsive ul li a{
+  font-family: 'Teko', sans-serif !important;
+  font-size: 25px;
+}
+header img{
+
+  object-fit: cover;
+      height: 400px;
+      width: 100%;
+}
+#services{
+  /* background-color: #ae2762; */
+}
+#second{
+  padding-top: 30px;
+}
+#footer{
+  border: 1.5px solid black;
+  background-color: #fff !important;
+}
+  #footer-text{
+    color:#000000 !important;
+    padding-top: 15px;
+  }
+.buttom{
+  padding-top:5px;
+  height: 30px;
+  background-color: #000000;
+}
